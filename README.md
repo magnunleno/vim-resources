@@ -1,8 +1,73 @@
 # Fontes de aprendizado para VIM
 
 ## Vídeos
- *  [Derek Wyatt - Vimeo](https://vimeo.com/user1690209)
- *  [VIM Watch](http://vim.watch/)
- *  [VIM Casts](http://vimcasts.org/)
+ * [Derek Wyatt - Vimeo](https://vimeo.com/user1690209)
+ * [VIM Watch](http://vim.watch/)
+ * [VIM Casts](http://vimcasts.org/)
+ * [VIM Drills](https://www.youtube.com/channel/UC0VZTuyeYE-r70ryTQRNz1A)
+ * [Minute VIM Tricks](https://www.youtube.com/channel/UCpdsZ1n09mwrbUGmU7lqnqA) 
+ * [VIM London Mettup](https://vimeo.com/vimlondon/videos)
+ * [Fuzicast | VIM Tag](https://fuzicast.wordpress.com/tag/vim/)
+ * [LocoCast | VIM Tag](http://lococast.net/archives/tag/vim)
+ * [A VIM Primer Screencast](https://danielmiessler.com/blog/vim-primer-screencast/)
+ * [Ben Orenstein - Write code faster: expert-level vim (Railsberry 2012)](https://www.youtube.com/watch?v=SkdrYWhh-8s)
+ * [VIM - From Essentials to Mastery](http://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery)
+ * [Steve Losh](https://www.youtube.com/user/sjl12341/videos)
  
-## Sites
+## Sites/Blogs
+ * [Reddit VIM](http://reddit.com/r/vim)
+ * [Reddit VIM Plugins](http://www.reddit.com/r/vimplugins/)
+ * [VIM Awesome](http://vimawesome.com/)
+ * [Daily Vim Devotional](http://dailyvim.tumblr.com/)
+ * [Arabesque | VIM Category](http://blog.sanctum.geek.nz/category/vim/)
+ * [Today I Lerned: VIM](http://tilvim.com/)
+ * [VI Improved Tips](http://vimrc-dissection.blogspot.com/)
+ * [Derek Wyatt | VIM Tag](http://derekwyatt.org/tags.html#vim)
+ * [VIM Bits](http://www.vimbits.com/)
+ * [Use VIM](http://usevim.com/)
+ * [VIM Ninjas](http://www.vimninjas.com/)
+ * [Jeet Sukumaran | VIM tag](http://jeetworks.org/tag/vim/)
+
+## Apresentações
+ * [The VIM Presentation](http://inside.github.io/vim-presentation/#/)
+ * [VIM Rocks](http://pt.slideshare.net/magnunleno/vim-rocks-39390195)
+ * [VIM as a Python IDE](https://speakerdeck.com/mbrochh/vim-as-a-python-ide)
+ 
+## Livros/PDFs
+ * [A Byte of VIM](http://www.swaroopch.com/notes/vim/)
+ * [VIM Book OPL](http://ftp.vim.org/pub/vim/doc/book/vimbook-OPL.pdf)
+ * [VIM Tutorial and Reference](http://www.oualline.com/vim-book.html)
+ * [O Editor de Texto VIM](https://code.google.com/p/vimbook/)
+ * [VIM CookBook](http://www.oualline.com/vim/vim-cook.html)
+ * [VIM Recipes](http://linux.vsevteme.ru/attachments/show?content=19936)
+
+## Artigos/textos Específicos
+ * [Registradores no VIM](http://mindbending.org/pt/registradores-no-vim)
+ * [Programando JAVA sem IDE](http://mindbending.org/pt/programando-java-sem-ide)
+ * [Vim Text Objects: The Definitive Guide](http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/)
+ * [VIM Introdution and Tutorial](https://blog.interlinked.org/tutorials/vim_tutorial.html)
+ * [Lern VIM Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+ * [Learning VIM in 2014: The Basics](http://benmccormick.org/2014/06/30/learning-vim-in-2014-the-basics/)
+ * [Learning Vim in 2014: Vim as Language](http://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language/)
+ * [Learning Vim in 2014: Working with Files](http://benmccormick.org/2014/07/07/learning-vim-in-2014-working-with-files/)
+ * [Learning Vim in 2014: Vim as Art](http://benmccormick.org/2014/07/16/learning-vim-in-2014-vim-as-art/)
+ * [Learning Vim in 2014: Getting More from Vim with Plugins](http://benmccormick.org/2014/07/21/learning-vim-in-2014-getting-more-from-vim-with-plugins/)
+ * [Learning Vim in 2014: Copy and Paste the Vim Way](http://benmccormick.org/2014/07/28/learning-vim-in-2014-copy-and-paste-the-vim-way/)
+ * [Learning Vim in 2014: Search](http://benmccormick.org/2014/08/04/learning-vim-in-2014-search/)
+ * [A vim Tutorial and Primer](https://danielmiessler.com/study/vim/)
+ * [Why VIM](http://www.terminally-incoherent.com/blog/2012/03/21/why-vim)
+ * [VIM Revisited](http://mislav.uniqpath.com/2011/12/vim-revisited/)
+ * [VIM After 11 Years](http://statico.github.io/vim.html)
+ * [VIM Splits - Move Faster and More Naturally](https://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally)
+ * [Turning VIM Into a Modern Python IDE](http://www.sontek.net/blog/2011/05/07/turning_vim_into_a_modern_python_ide.html)
+ * [VIM as a Python IDE](http://unlogic.co.uk/2013/02/08/vim-as-a-python-ide/)
+ * [VIM CLANG Autocompletion](http://unlogic.co.uk/2012/07/13/vim-clang/)
+ * [VIM Settings Done Better](http://unlogic.co.uk/2015/01/07/vim-settings-done-better/)
+ * [Code Substitution Done Right - Switch.vim](http://www.vimninjas.com/2012/09/12/switch/)
+ * [Replace in Multiple Files - The VIM Way](http://www.vimninjas.com/2012/09/19/replace-multiple/)
+ * [How I Boosted My VIM](http://nvie.com/posts/how-i-boosted-my-vim/)
+ * [Writing in VIM](http://www.drbunsen.org/writing-in-vim/)
+ 
+## VIMRCs
+ * [Derek Wyatt's VIMRC](https://github.com/derekwyatt/vim-config/blob/master/vimrc)
+ * [Steve Losh](https://bitbucket.org/sjl/dotfiles/src/e6f6389e598f33a32e75069d7b3cfafb597a4d82/vim/?at=default)
