@@ -69,6 +69,8 @@
  * [How I Boosted My VIM](http://nvie.com/posts/how-i-boosted-my-vim/)
  * [Writing in VIM](http://www.drbunsen.org/writing-in-vim/)
 
-## VIMRCs
+## VIMRCs e Geradores de VIMRCs
  * [Derek Wyatt's VIMRC](https://github.com/derekwyatt/vim-config/blob/master/vimrc)
  * [Steve Losh](https://bitbucket.org/sjl/dotfiles/src/e6f6389e598f33a32e75069d7b3cfafb597a4d82/vim/?at=default)
+ * [Vim Config](http://vimconfig.com/)
+ * [Vim Bootstrap](http://vim-bootstrap.com/)
