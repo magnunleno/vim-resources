@@ -37,7 +37,7 @@
  * [A Byte of VIM](http://www.swaroopch.com/notes/vim/)
  * [VIM Book OPL](http://ftp.vim.org/pub/vim/doc/book/vimbook-OPL.pdf)
  * [VIM Tutorial and Reference](http://www.oualline.com/vim-book.html)
- * [O Editor de Texto VIM](https://code.google.com/p/vimbook/)
+ * [O Editor de Texto VIM](https://cassiobotaro.gitbooks.io/vimbook/content/)
  * [VIM CookBook](http://www.oualline.com/vim/vim-cook.html)
  * [VIM Recipes](http://linux.vsevteme.ru/attachments/show?content=19936)
  * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
