@@ -5,7 +5,7 @@
  * [VIM Watch](http://vim.watch/)
  * [VIM Casts](http://vimcasts.org/)
  * [VIM Drills](https://www.youtube.com/channel/UC0VZTuyeYE-r70ryTQRNz1A)
- * [Minute VIM Tricks](https://www.youtube.com/channel/UCpdsZ1n09mwrbUGmU7lqnqA) 
+ * [Minute VIM Tricks](https://www.youtube.com/channel/UCpdsZ1n09mwrbUGmU7lqnqA)
  * [VIM London Mettup](https://vimeo.com/vimlondon/videos)
  * [Fuzicast | VIM Tag](https://fuzicast.wordpress.com/tag/vim/)
  * [LocoCast | VIM Tag](http://lococast.net/archives/tag/vim)
@@ -13,7 +13,7 @@
  * [Ben Orenstein - Write code faster: expert-level vim (Railsberry 2012)](https://www.youtube.com/watch?v=SkdrYWhh-8s)
  * [VIM - From Essentials to Mastery](http://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery)
  * [Steve Losh](https://www.youtube.com/user/sjl12341/videos)
- 
+
 ## Sites/Blogs
  * [Reddit VIM](http://reddit.com/r/vim)
  * [Reddit VIM Plugins](http://www.reddit.com/r/vimplugins/)
@@ -32,7 +32,7 @@
  * [The VIM Presentation](http://inside.github.io/vim-presentation/#/)
  * [VIM Rocks](http://pt.slideshare.net/magnunleno/vim-rocks-39390195)
  * [VIM as a Python IDE](https://speakerdeck.com/mbrochh/vim-as-a-python-ide)
- 
+
 ## Livros/PDFs
  * [A Byte of VIM](http://www.swaroopch.com/notes/vim/)
  * [VIM Book OPL](http://ftp.vim.org/pub/vim/doc/book/vimbook-OPL.pdf)
@@ -40,6 +40,7 @@
  * [O Editor de Texto VIM](https://code.google.com/p/vimbook/)
  * [VIM CookBook](http://www.oualline.com/vim/vim-cook.html)
  * [VIM Recipes](http://linux.vsevteme.ru/attachments/show?content=19936)
+ * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
 ## Artigos/textos Específicos
  * [Registradores no VIM](http://mindbending.org/pt/registradores-no-vim)
@@ -67,7 +68,7 @@
  * [Replace in Multiple Files - The VIM Way](http://www.vimninjas.com/2012/09/19/replace-multiple/)
  * [How I Boosted My VIM](http://nvie.com/posts/how-i-boosted-my-vim/)
  * [Writing in VIM](http://www.drbunsen.org/writing-in-vim/)
- 
+
 ## VIMRCs
  * [Derek Wyatt's VIMRC](https://github.com/derekwyatt/vim-config/blob/master/vimrc)
  * [Steve Losh](https://bitbucket.org/sjl/dotfiles/src/e6f6389e598f33a32e75069d7b3cfafb597a4d82/vim/?at=default)
