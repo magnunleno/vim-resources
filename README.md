@@ -27,6 +27,7 @@
  * [Use VIM](http://usevim.com/)
  * [VIM Ninjas](http://www.vimninjas.com/)
  * [Jeet Sukumaran | VIM tag](http://jeetworks.org/tag/vim/)
+ * [VIM Galore](https://github.com/mhinz/vim-galore)
 
 ## Apresentações
  * [The VIM Presentation](http://inside.github.io/vim-presentation/#/)
