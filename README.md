@@ -75,3 +75,6 @@
  * [Steve Losh](https://bitbucket.org/sjl/dotfiles/src/e6f6389e598f33a32e75069d7b3cfafb597a4d82/vim/?at=default)
  * [Vim Config](http://vimconfig.com/)
  * [Vim Bootstrap](http://vim-bootstrap.com/)
+
+ ## Jogos
+ * [VIM adventures](http://vim-adventures.com/)
