@@ -13,6 +13,7 @@
  * [Ben Orenstein - Write code faster: expert-level vim (Railsberry 2012)](https://www.youtube.com/watch?v=SkdrYWhh-8s)
  * [VIM - From Essentials to Mastery](http://www.infoq.com/presentations/Vim-From-Essentials-to-Mastery)
  * [Steve Losh](https://www.youtube.com/user/sjl12341/videos)
+ * [VIM: Mais que um Editor](http://mindbending.org/pt/vim-mais-que-um-editor)
 
 ## Sites/Blogs
  * [Reddit VIM](http://reddit.com/r/vim)
@@ -76,5 +77,5 @@
  * [Vim Config](http://vimconfig.com/)
  * [Vim Bootstrap](http://vim-bootstrap.com/)
 
- ## Jogos
+## Jogos
  * [VIM adventures](http://vim-adventures.com/)
