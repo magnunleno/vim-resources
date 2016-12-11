@@ -2,7 +2,6 @@
 
 ## Vídeos
  * [Derek Wyatt - Vimeo](https://vimeo.com/user1690209)
- * [VIM Watch](http://vim.watch/)
  * [VIM Casts](http://vimcasts.org/)
  * [VIM Drills](https://www.youtube.com/channel/UC0VZTuyeYE-r70ryTQRNz1A)
  * [Minute VIM Tricks](https://www.youtube.com/channel/UCpdsZ1n09mwrbUGmU7lqnqA)
